@@ -34,6 +34,7 @@ INSTALLED_APPS = [
     'django_filters',
     'drf_spectacular',
     'django_celery_beat',
+    'rest_framework_simplejwt.token_blacklist',
 
     #local
     'users',
